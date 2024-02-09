@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Nalish Jain, a computer science and artificial intelligence undergraduate at IIIT-Delhi and an AI/ML enthusiast.
 <!--
 **NalishJain/NalishJain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
