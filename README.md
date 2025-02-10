@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nalish Jain, a 3rd year computer science and artificial intelligence undergraduate at IIIT-Delhi and an AI/ML enthusiast.
+I'm Nalish Jain, a 4TH year computer science and artificial intelligence undergraduate at IIIT-Delhi and an AI/ML enthusiast.
 
 
 ## 🌐 Socials:
